@@ -1,6 +1,7 @@
 ## 安装方法  
 - 请在浏览器中安装 [Automa扩展](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca)
-- 在 [Automa插件市场](https://www.automa.site/workflow/eSh-B7hCkw76Dnc2QsQGc) 一键安装
+- 在 [Automa插件市场](https://www.automa.site/workflow/eSh-B7hCkw76Dnc2QsQGc) 一键安装 `douyin-unfollow`
+- 修改 `Repeat Task` 次数，默认为 `5000`
 
 > 也可以在`Automa dashboard`的侧边栏点击`Workflow`-->页面右侧`Import Workflow`-->选中本项目中的`unfollow.json`导入
 
